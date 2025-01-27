@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T23:01:30 IST" name="Default suite" finished-at="2025-01-26T23:02:07 IST" duration-ms="37012">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T23:01:30 IST" name="Default test" finished-at="2025-01-26T23:02:07 IST" duration-ms="37012">
+      <class name="testcase.selectorspagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.selectorspagetest@f80945f]" started-at="2025-01-26T23:01:30 IST" name="setup" finished-at="2025-01-26T23:01:57 IST" duration-ms="26581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="systemtable()[pri:0, instance:testcase.selectorspagetest@f80945f]" started-at="2025-01-26T23:01:57 IST" name="systemtable" finished-at="2025-01-26T23:02:07 IST" duration-ms="10160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemtable -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.selectorspagetest@f80945f]" started-at="2025-01-26T23:02:07 IST" name="teardown" finished-at="2025-01-26T23:02:07 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.selectorspagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
